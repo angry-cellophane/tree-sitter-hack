@@ -16,7 +16,7 @@
     "url": "https://github.com/slackhq/tree-sitter-hack/issues"
   },
   "engines": {
-    "node": ">=14.7.0"
+    "node": ">=22.13.0"
   },
   "dependencies": {
     "nan": "^2.14.1"
